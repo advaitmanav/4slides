@@ -82,5 +82,12 @@
     "duration": 32,
     "zoomStart": { "scale": 1, "x": 2, "y": -2 },
     "zoomEnd": { "scale": 1.3, "x": -5, "y": 3 }
+  },
+        {
+    "file": "images/art_13.jpg",
+    "title": "Florence",
+    "duration": 32,
+    "zoomStart": { "scale": 1, "x": 2, "y": -2 },
+    "zoomEnd": { "scale": 1.3, "x": -5, "y": 3 }
   }
 ]
